@@ -1,1 +1,2 @@
-Das ist ein firster Satz. Das ist unser erster commit. Hehehe. Muhahahah
+Das ist ein firster Satz. Das ist unser erster commit. Hehehe. 
+Jetzt füge ich noch einen Satz hinzu und pushe auf das Remote Repository.
